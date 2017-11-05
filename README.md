@@ -5,6 +5,6 @@ A small wage calculator app I built originally for personal use :)
 
 ## Features
 Calculates
-- Hourly Rate
-- Total Pay
-- Time Worked
+- 💸 Hourly Rate
+- 💰 Total Pay
+- 🤑 Time Worked
